@@ -1,0 +1,9 @@
+{
+  "dataset_page": "https://www.kaggle.com/datasets/blastchar/telco-customer-churn",
+  "publisher": "Kaggle / BlastChar",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/blastchar/telco-customer-churn",
+  "sha256": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a",
+  "bytes": 977501,
+  "fallback_failures": [],
+  "description": "Public Telco Customer Churn sample for learning; no claim of live customer data."
+}

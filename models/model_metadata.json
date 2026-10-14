@@ -1,0 +1,35 @@
+{
+  "selected_model": "LogisticRegression",
+  "threshold": 0.37,
+  "feature_columns": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ],
+  "seed": 42,
+  "source_sha256": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a",
+  "versions": {
+    "python": "3.12.1",
+    "pandas": "3.0.3",
+    "numpy": "2.4.2",
+    "scikit-learn": "1.9.0",
+    "joblib": "1.5.3"
+  },
+  "selection_rule": "Highest validation F1 with threshold selected on validation only"
+}

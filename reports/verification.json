@@ -1,0 +1,12 @@
+{
+  "source_checksum": "passed",
+  "complete_disjoint_customer_splits": "passed",
+  "preprocessing_fit_on_train_only": "passed",
+  "selection_uses_validation": "passed",
+  "saved_pipeline_matches_test_predictions": "passed",
+  "test_metrics_recomputed": "passed",
+  "csv_inference_matches_saved_pipeline": "passed",
+  "invalid_inputs_rejected": "passed",
+  "notebook_all_cells_executed_without_errors": "passed",
+  "figures_exist": "passed"
+}
